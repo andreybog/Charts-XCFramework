@@ -20,8 +20,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "Charts",
-            url: "https://github.com/andreybog/Charts-XCFramework/releases/download/3.5.0/Charts.xcframework.zip",
-            checksum: "0697319219c9d43d7fe1ec21091ff8fe817527229e467180fdd4751200b4ad7a"
+            url: "https://github.com/andreybog/Charts-XCFramework/releases/download/3.5.1/Charts.xcframework.zip",
+            checksum: "a591b4e8918f3442cb8c078d4870fd4def7f1277d99d74355bbee114db005e9a"
         ),
     ]
 )
